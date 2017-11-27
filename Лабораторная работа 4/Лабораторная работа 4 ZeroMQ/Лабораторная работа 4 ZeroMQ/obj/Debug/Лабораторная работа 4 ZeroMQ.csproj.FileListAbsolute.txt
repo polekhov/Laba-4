@@ -1,0 +1,16 @@
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ\Лабораторная работа 4 ZeroMQ\bin\Debug\amd64\libzmq.so
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ\Лабораторная работа 4 ZeroMQ\bin\Debug\amd64\libzmq.dll
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ\Лабораторная работа 4 ZeroMQ\bin\Debug\amd64\libsodium.so
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ\Лабораторная работа 4 ZeroMQ\bin\Debug\amd64\libsodium.dll
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ\Лабораторная работа 4 ZeroMQ\bin\Debug\i386\libzmq.so
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ\Лабораторная работа 4 ZeroMQ\bin\Debug\i386\libzmq.dll
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ\Лабораторная работа 4 ZeroMQ\bin\Debug\i386\libsodium.so
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ\Лабораторная работа 4 ZeroMQ\bin\Debug\i386\libsodium.dll
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ\Лабораторная работа 4 ZeroMQ\bin\Debug\Лабораторная работа 4 ZeroMQ.exe.config
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ\Лабораторная работа 4 ZeroMQ\bin\Debug\Лабораторная работа 4 ZeroMQ.exe
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ\Лабораторная работа 4 ZeroMQ\bin\Debug\Лабораторная работа 4 ZeroMQ.pdb
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ\Лабораторная работа 4 ZeroMQ\bin\Debug\ZeroMQ.dll
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ\Лабораторная работа 4 ZeroMQ\bin\Debug\ZeroMQ.xml
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ\Лабораторная работа 4 ZeroMQ\obj\Debug\Лабораторная работа 4 ZeroMQ.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ\Лабораторная работа 4 ZeroMQ\obj\Debug\Лабораторная работа 4 ZeroMQ.exe
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ\Лабораторная работа 4 ZeroMQ\obj\Debug\Лабораторная работа 4 ZeroMQ.pdb

@@ -1,0 +1,6 @@
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4\Лабораторная работа 4\bin\Debug\Лабораторная работа 4.exe.config
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4\Лабораторная работа 4\bin\Debug\Лабораторная работа 4.exe
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4\Лабораторная работа 4\bin\Debug\Лабораторная работа 4.pdb
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4\Лабораторная работа 4\obj\Debug\Лабораторная работа 4.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4\Лабораторная работа 4\obj\Debug\Лабораторная работа 4.exe
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4\Лабораторная работа 4\obj\Debug\Лабораторная работа 4.pdb

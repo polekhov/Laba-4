@@ -1,0 +1,16 @@
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ Клиент\Лабораторная работа 4 ZeroMQ Клиент\bin\Debug\amd64\libzmq.so
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ Клиент\Лабораторная работа 4 ZeroMQ Клиент\bin\Debug\amd64\libzmq.dll
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ Клиент\Лабораторная работа 4 ZeroMQ Клиент\bin\Debug\amd64\libsodium.so
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ Клиент\Лабораторная работа 4 ZeroMQ Клиент\bin\Debug\amd64\libsodium.dll
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ Клиент\Лабораторная работа 4 ZeroMQ Клиент\bin\Debug\i386\libzmq.so
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ Клиент\Лабораторная работа 4 ZeroMQ Клиент\bin\Debug\i386\libzmq.dll
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ Клиент\Лабораторная работа 4 ZeroMQ Клиент\bin\Debug\i386\libsodium.so
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ Клиент\Лабораторная работа 4 ZeroMQ Клиент\bin\Debug\i386\libsodium.dll
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ Клиент\Лабораторная работа 4 ZeroMQ Клиент\bin\Debug\Лабораторная работа 4 ZeroMQ Клиент.exe.config
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ Клиент\Лабораторная работа 4 ZeroMQ Клиент\bin\Debug\Лабораторная работа 4 ZeroMQ Клиент.exe
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ Клиент\Лабораторная работа 4 ZeroMQ Клиент\bin\Debug\Лабораторная работа 4 ZeroMQ Клиент.pdb
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ Клиент\Лабораторная работа 4 ZeroMQ Клиент\bin\Debug\ZeroMQ.dll
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ Клиент\Лабораторная работа 4 ZeroMQ Клиент\bin\Debug\ZeroMQ.xml
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ Клиент\Лабораторная работа 4 ZeroMQ Клиент\obj\Debug\Лабораторная работа 4 ZeroMQ Клиент.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ Клиент\Лабораторная работа 4 ZeroMQ Клиент\obj\Debug\Лабораторная работа 4 ZeroMQ Клиент.exe
+c:\users\nick\documents\visual studio 2017\Projects\Лабораторная работа 4 ZeroMQ Клиент\Лабораторная работа 4 ZeroMQ Клиент\obj\Debug\Лабораторная работа 4 ZeroMQ Клиент.pdb
